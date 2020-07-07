@@ -1,0 +1,16 @@
+PODS:
+  - ExtGenerator (0.0.1)
+
+DEPENDENCIES:
+  - ExtGenerator (from `../`)
+
+EXTERNAL SOURCES:
+  ExtGenerator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExtGenerator: 92448d2e243dbf29cda67983bf7d868721bf725f
+
+PODFILE CHECKSUM: 5de36e4b4f724f52c872cc189359886e64d1cb22
+
+COCOAPODS: 1.5.3
